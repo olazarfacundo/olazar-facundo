@@ -1,0 +1,35 @@
+.navbar{
+    height: 80px;
+    animation: aparecer .8s;
+}
+  
+.navbar ul{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 100%;
+}
+  
+.navbar ul li{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin: 0 32px;
+  width: 8%;
+}
+  
+.navbar img{
+  width: 32px;
+  height: auto;
+}
+
+.link :hover{
+  color: red;
+}
+
+@media screen and (max-width: 700px){
+    .navbar ul{
+        justify-content: center;
+    }
+}

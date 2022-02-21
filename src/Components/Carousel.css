@@ -1,0 +1,54 @@
+.carousel{
+    overflow: hidden;
+    height: 100%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.inner{
+    white-space: nowrap;
+    transition: transform .5s;
+}
+
+.carousel-item{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: green;
+    color: white;
+}
+
+.carousel-item img{
+    width: 100%;
+}
+
+.indicadores{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: -120px;
+}
+
+.indicadores button{
+    background: none;
+    border: none;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.indicadores button:hover{
+    transform: scale(1.2);
+    transition-duration: .3s;
+}
+
+@media screen and (max-width: 700px){
+    .indicadores{
+        top: -80px
+    }
+}
