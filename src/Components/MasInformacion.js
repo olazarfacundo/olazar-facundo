@@ -36,7 +36,7 @@ export default function MasInformacion(props) {
                         <p>{props.ingles ? "Let's keep in touch." : "Sigamos en contacto."}</p>
                     </div>
                     <div className="extra-box-img linkedin">
-                        <a href="www.linkedin.com/in/facundo-olazar" target="_blank">
+                        <a href="https://linkedin.com/in/facundo-olazar" target="_blank">
                             <img src={linkedin} />
                         </a>
                     </div>
