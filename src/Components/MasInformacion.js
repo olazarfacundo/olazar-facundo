@@ -18,7 +18,7 @@ export default function MasInformacion(props) {
                         </a>
                     </div>
                 </div>
-                <div className="extra-box">
+                <div className="extra-box curriculum">
                     <div className="extra-box-header">
                         <h1>{props.ingles ? "Resume" : "Curriculum"}</h1>
                         <p>{props.ingles ? "A summary of my professional life." : "Un resumen de mi vida profesional."}</p>
