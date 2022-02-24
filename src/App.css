@@ -223,6 +223,10 @@ ul{
   margin: 2% 0 0 0;
 }
 
+.curriculum img{
+  width: 55%
+}
+
 @keyframes aparecer{
   0%{
     opacity: 0;
