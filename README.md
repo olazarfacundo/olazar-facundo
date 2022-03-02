@@ -1,4 +1,5 @@
 # Mi portfolio personal como Front End Developer
 
-En este portfolio voy a estar cargando mis principales proyectos en React JS, asi como tambien mi informacion personal.
+En este repositorio se encuentra mi portfolio personal como Front End Developer. 
 
+La idea de este portfolio es poder dar mas visibilidad a los proyectos que estoy realizando, asi como tambien establecer una via de contacto para cualquier persona que este interesada en hacerlo.
