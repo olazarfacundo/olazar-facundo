@@ -168,7 +168,7 @@ ul{
   flex-direction: row;
   justify-content: space-evenly;
   width: 80%;
-  height: 50%;
+  height: 75%;
   border-radius: 15px;
   box-shadow: 10px 10px 26px -1px rgba(0,0,0,0.75);
   -webkit-box-shadow: 10px 10px 26px -1px rgba(0,0,0,0.75);
