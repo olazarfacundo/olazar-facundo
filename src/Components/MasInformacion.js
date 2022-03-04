@@ -25,7 +25,7 @@ export default function MasInformacion(props) {
                     </div>
                     <div className="extra-box-img">
 
-                        <a href="https://olazar-facundo-cv.tiiny.site/" target="_blank">
+                        <a href="https://drive.google.com/file/d/1U2CPVgYy_6_rSfUG8qIfgmitx3QCAGSv/view?usp=sharing" target="_blank">
                             <img src={curriculum} />
                         </a>
                     </div>
